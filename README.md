@@ -48,8 +48,10 @@ Les analyses se basent sur des données issues de la FAO et d’autres sources p
 Ce projet m’a permis de consolider mes compétences en analyse exploratoire, techniques de clustering et visualisation des données tout en adressant un défi stratégique réel dans l’industrie agroalimentaire.
 
 
-&nbsp;  
-&nbsp;  
+---
+
+---
+
 
 # 🐔 Market Analysis for the International Export of Agricultural Products
 
